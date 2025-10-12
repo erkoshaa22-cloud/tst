@@ -5,7 +5,7 @@
       "price": 250,
       "sellerid": "1234567890",
       "inventoryDefinition": "G22_Relic",
-      "soled": false
+      "soled": true
     }
   ]
 }
