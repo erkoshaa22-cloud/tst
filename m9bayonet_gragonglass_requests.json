@@ -3,5 +3,10 @@
             "sellerId": "исх данка",
             "price": 1488.0,
             "soled": true
+        },
+        {
+            "sellerId": "10000994",
+            "price": 4000.0,
+            "soled": false
         }
     ]
