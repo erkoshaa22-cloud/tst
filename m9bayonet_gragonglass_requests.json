@@ -2,6 +2,6 @@
         {
             "sellerId": "ХУЙЛО",
             "price": 4444.0,
-            "soled": false
+            "soled": true
         }
     ]
