@@ -1,12 +1,12 @@
-[
-  {
-    "sellerId": "2",
-    "price": 4500,
-    "soled": false
-  },
-  {
-    "sellerId": "1",
-    "price": 4700,
-    "soled": true
-  }
-]
+ay": [
+        {
+            "sellerId": "2",
+            "price": 4500.0,
+            "soled": true
+        },
+        {
+            "sellerId": "1",
+            "price": 4700.0,
+            "soled": true
+        }
+    ]
